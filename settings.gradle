@@ -1,0 +1,2 @@
+rootProject.name='Field Buzz'
+include ':app'
